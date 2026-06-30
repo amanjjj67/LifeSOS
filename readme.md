@@ -73,6 +73,3 @@ cd server && npm start
 | `/report-scam` | Report a scam |
 | `/contact` | Contact page |
 
-## Screenshots
-
-<!-- Add screenshots here -->
